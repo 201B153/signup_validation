@@ -1,5 +1,6 @@
-# SignUp Form 
+# auth form with validtion
 
-- this have enabled validation
+- A basic react auth form made using js.
+- This form have validation system written in js 
+- The validation allows user to have better experience while filling the form.
 
-....
